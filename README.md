@@ -1,2 +1,1 @@
-# TelegramRat
-Rat with control via telegram bot
+Инструкция - https://teletype.in/@beand/TelegramRat
